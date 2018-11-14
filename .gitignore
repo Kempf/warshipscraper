@@ -1,0 +1,4 @@
+__pycache__/
+figures/
+*.py[cod]
+auth.py
